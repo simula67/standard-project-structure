@@ -21,8 +21,9 @@ When the project is built, the finished artifacts are placed in this directory. 
 
 ### At the top level
 
-README.md
-Makefile
+* README.md
+
+* Makefile
 
 ## Required Make targets
 

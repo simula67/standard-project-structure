@@ -27,9 +27,11 @@ When the project is built, the finished artifacts are placed in this directory. 
 
 ## Required Make targets
 
+Folllow the conventions in [GNU Makefile guidelines](httpsttps://www.gnu.org/prep/standards/html_node/Standard-Targets.html#Standard-Targets)
+
 * dist
 
-This target builds the whole project and puts the result into `dist` directory. The result is always a `tar` file. `dist` is the default target in the Makefile
+This target builds the whole project and puts the result into `dist` directory. The result is always a `tar` file.
 
 * setup-devel-env
 

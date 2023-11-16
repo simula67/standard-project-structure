@@ -33,6 +33,6 @@ Folllow the conventions in [GNU Makefile guidelines](httpsttps://www.gnu.org/pre
 
 This target builds the whole project and puts the result into `dist` directory. The result is always a `tar` file.
 
-* develenv
+* setup-devel-env
 
 This target sets up the development environment
